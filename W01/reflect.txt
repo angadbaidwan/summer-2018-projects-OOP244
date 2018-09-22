@@ -1,0 +1,10 @@
+Name: Angadpreet Baidwan
+Student ID: 135421170
+Workshop #: Workshop 1 At-Home
+Date: 2018-05-22
+
+1) A namespace is a scope for all the entities enclosed within it. It helps prevent naming conflicts within large applications as variables from each part of the application have their own namespace.
+2) Header files are non-implementation files with a .h extension and are needed to make declarations and provide function prototypes to files that need them. As a result, header files help link multiple .cpp files together.
+3) Header files should not be compiled because they are already included within other .cpp implementation files.
+4) Including .cpp files in another file can result in duplication and result in errors and also reduces the modularity of the code, making it harder to edit and maintain the code.
+5) In this workshop, I learned how to compile code with multiple modules and the benefits of creating and using namespaces.
